@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US"><head><!-- Created by Artisteer v4.1.0.59861 -->
+    <meta charset="utf-8">
+    <title>Contact Us</title>
+    <meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">
+    <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" href="css/style.css" media="screen">
+    <!--[if lte IE 7]><link rel="stylesheet" href="style.ie7.css" media="screen" /><![endif]-->
+    <link rel="stylesheet" href="css/style.responsive.css" media="all">
+
+
+    <script src="javascript/jquery.js"></script>
+    <script src="javascript/script.js"></script>
+    <script src="javascript/script.responsive.js"></script>
+
+
+</head>
+<body>
+<div id="art-main">
+
+<!--HTML Header-->
+<?php include('template/header.php');?>
+<!-- End of Header-->
+
+<div class="art-sheet clearfix">
+<!--Navigation Starts-->
+<?php include('template/nav.php');?>
+<!--Navigation End--> 
+<div class="art-layout-wrapper">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-content"><article class="art-post art-article">
+                                <h2 class="art-postheader">Contact Us</h2>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><p>Govt higher Secondary School Ghani Dheri was established in 1995 with the sole aim of providing to the new generation a high standard education and an all round training for grooming a confident literate personality along with a strong moral character.</p>
+
+<h3>Our Address</h3>
+
+<p> GHSS Is Situated in Ghani Dheri <br />
+Tehsil Dargai Distt:Malakand</p>
+
+<p>Telephone:0932557352<br />
+Fax N:0932505532</p>
+
+<p>Website: <a href="#">www.ghss.com</a><br />
+Email: <a href="#">ghss@yahoo.com</a></p></div>
+
+
+</article></div>
+                    </div>
+                </div>
+            </div>
+
+
+   <?php  include('template/footer.php'); ?>
+
+    </div>
+</div>
+
+
+</body></html>
