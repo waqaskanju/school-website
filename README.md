@@ -25,9 +25,14 @@ School Website
 - It also contain an admin panel to change webiste content. 
 - To access admin panel (webistename/admin) use admin as username and password. Use hashing for hiding password in production.
 
+## Sample Pictures
+
+![school-webiste1](https://user-images.githubusercontent.com/13853450/173246075-b7f636ba-e547-4270-87a0-8a55704360e0.png)
+![secholl webiste 2](https://user-images.githubusercontent.com/13853450/173246151-46f14add-dc52-4c99-bf0f-4828e003cccd.png)
+![school website 3](https://user-images.githubusercontent.com/13853450/173246093-73be04a5-55a9-49c6-aef1-21988cf29efd.png)
+![school webiste 3](https://user-images.githubusercontent.com/13853450/173246097-4fc0f5b9-8b06-466f-a9d9-16ed0b48ee03.png)
 
 ## Getting Started
-
 To get a local copy up and running follow these sample example steps.
 
 - A text editor(preferably Visual Studio Code)
@@ -83,3 +88,4 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
