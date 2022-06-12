@@ -21,7 +21,7 @@ if(mysqli_num_rows($ans) == 1)
 	
 $_SESSION['mysession'] = $user;	
 
-header("location:spend.php");
+header("location:pagemanager.php");
 }
 
 else{echo "Wrong Username or Password";

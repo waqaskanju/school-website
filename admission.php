@@ -84,7 +84,7 @@ alert('Thank You for Your Admission');
       <tr><td>Totalmarks:</td><td><input type="text" name="tutmarks"></td></tr>
         <tr> <td>Cell No:</td><td><input type="text" name="cell"></td></tr>  
         <tr> <td>Address:</td><td><input type="text" name="address"></td></tr> 
-         <tr> <td><input type="hidden" value="1" name="submitted"></td> </tr>
+         <input type="hidden" value="1" name="submitted">
            
            
            <tr> <td><input type="submit" value="submit"></td> <td><input type="reset" value="clear"></td></tr> 

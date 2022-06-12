@@ -1,7 +1,4 @@
-<?php  
-include('config/connect.php');
-
- ?>
+<?php include('config/connect.php'); ?>
 
 
 <!DOCTYPE html>

@@ -401,13 +401,8 @@ li p, .art-postcontent li p, .art-blockcontent li p
 
 .art-shapes
 {
-   position: absolute;
-   top: 0;
-   right: 0;
-   bottom: 0;
-   left: 0;
-   overflow: hidden;
-   z-index: 0;
+
+   margin-left:20%;
 }
 
 .art-slider-inner {
@@ -485,7 +480,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
    -webkit-border-radius:40px 40px 0 0;
    -moz-border-radius:40px 40px 0 0;
    border-radius:40px 40px 0 0;
-   padding:3px;
+   padding:46px 0;
    margin:0 auto;
    position: relative;
    z-index: 499;
@@ -1111,6 +1106,7 @@ button.art-button
 input, select, textarea, a.art-search-button span
 {
    vertical-align: middle;
+   text-align: center;
    font-size: 14px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
 }
@@ -1213,6 +1209,7 @@ form.art-search input[type="text"]
    font-family: Georgia, 'Times New Roman', Times, Serif;
    font-weight: normal;
    font-style: normal;
+   text-align: center;
 }
 form.art-search 
 {
@@ -1712,8 +1709,10 @@ a img
 .art-article th, .art-article td
 {
    padding: 2px;
-   vertical-align: top;
+   vertical-align: middle;
    text-align: left;
+   text-align:center;
+   padding:20px;
 }
 
 .art-article th
